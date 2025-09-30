@@ -1,4 +1,4 @@
-#Chiadika Elue 280
+# Chiadika Elue 280
 # Datawarehouse Project – OLAP Operations
 
 This repository contains the Jupyter Notebook OLAPoperations.ipynb, which demonstrates key Online Analytical Processing (OLAP) operations used in data warehousing and business intelligence.
